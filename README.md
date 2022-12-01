@@ -1,3 +1,3 @@
-# dagmarakrenich.github.io
+#Moja strona
 
-Hejka! 
+#Hejka! 
